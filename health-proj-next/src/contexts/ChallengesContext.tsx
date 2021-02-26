@@ -49,7 +49,6 @@ export function ChallengesProvider({
     }, [])
 
     useEffect(() => {
-        console.log('alteração de nivel')
         Cookies.set('level', String(level));
         Cookies.set('currentExperience', String(currentExperience));
         Cookies.set('challengesCompleted', String(challengesCompleted));
