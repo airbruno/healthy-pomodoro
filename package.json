@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/cookie": "^0.4.0",
+    "@types/js-cookie": "^2.2.6",
+    "js-cookie": "^2.2.1"
+  },
+  "devDependencies": {
+    "@types/cookies": "^0.7.6"
+  }
+}
